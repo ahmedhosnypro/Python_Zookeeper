@@ -305,5 +305,8 @@ files:
     if __name__ == '__main__':    Zookeeper('zookeeper.zookeeper').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/98/stages/541/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 05 Aug 2023 19:54:37 UTC"
 record: -1
